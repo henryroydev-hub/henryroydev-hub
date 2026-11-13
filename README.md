@@ -63,6 +63,6 @@ I believe in consistent learning, writing clean code, understanding engineering 
 
 ### 🤝 Connect With Me
 
-- LinkedIn: [https://www.linkedin.com/in/henry-roy-61a27a1b4]
+- LinkedIn: https://www.linkedin.com/in/henry-roy-61a27a1b4
 - GitHub: https://github.com/henryroydev-hub
 
